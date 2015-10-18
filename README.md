@@ -1,0 +1,2 @@
+# scholarfund
+Crowdsourcing scholarship generation
